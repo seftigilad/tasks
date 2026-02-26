@@ -1,0 +1,30 @@
+# ── .NET ──────────────────────────────────────────────
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.snupkg
+TestResults/
+
+# Entity Framework migrations bundle
+efbundle
+
+# Secrets / connection strings
+appsettings.Development.json
+appsettings.Production.json
+
+# ── Node / React ───────────────────────────────────────
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.log
+
+# ── OS ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
