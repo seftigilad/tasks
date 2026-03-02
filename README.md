@@ -1,6 +1,6 @@
 # Task-Management Project
 
-**Installation:**
+**Installation**
 
 - Run SqlTables.sql to create tables, and users seed.
 - Run .net web api application TaskCore.
